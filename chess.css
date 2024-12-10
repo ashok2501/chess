@@ -1,0 +1,26 @@
+* {
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+.firstbox {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border: solid 2px black;
+}
+.secondbox {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border: solid 2px black;
+}
+.firstrow {
+    display: flex;
+}
+.secondrow {
+    display: flex;
+}
+.chess-parent {
+    border: solid 24px black;
+    width: fit-content;
+    border-radius: 10px;
+}
